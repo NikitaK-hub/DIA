@@ -1,2 +1,1 @@
-# DIA
-Development of Internet Applications
+# Репозиторий по курсу "Разработка интернет-приложений"
